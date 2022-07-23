@@ -2,7 +2,7 @@
 name = "crepes"
 version = "0.0.2"
 authors = ["Nikola Hristov <nikola@playform.cloud>"]
-edition = "2018"
+edition = "2021"
 description = "A compiler for reactive views in HTML with JavaScript"
 documentation = "https://docs.rs/crepes/"
 readme = "README.md"
