@@ -2,4 +2,7 @@
 name = "crepes"
 version = "0.0.2"
 
+[build]
+target-dir = "Target"
+
 [dependencies]
