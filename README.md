@@ -2,4 +2,4 @@
 
 A compiler for reactive views in HTML with JavaScript.
 
-[crepes]: HTTPS://Crates.IO/crates/crepes
+[crepes]: https://Crates.IO/crates/crepes
